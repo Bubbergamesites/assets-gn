@@ -6590,4 +6590,13 @@
     "author": "AZ Games",
     "authorLink": "https://azgames.io/"
   }
+   {
+    "id": 745,
+    "name": "Deltarune",
+    "cover": "{COVER_URL}/745.png",
+    "url": "{HTML_URL}/745.html",
+    "author": "idk",
+    "authorLink": ""
+  }
+  
 ]
