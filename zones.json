@@ -6580,14 +6580,13 @@
   },
   {
     "id": 745,
-    "name": "Tetris",
+    "name": "Deltarune",
     "cover": "{COVER_URL}/745.png",
     "url": "{HTML_URL}/745.html",
-    "author": "Nintendo",
-    "authorLink": "https://www.nintendo.com/",
+    "author": "idk",
+    "authorLink": "",
     "special": [
-      "emulator",
-      "nes"
+      "port"
     ]
   },
   {
